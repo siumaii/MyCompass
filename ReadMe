@@ -1,0 +1,11 @@
+Not sure if phone is broken or the code is not doing what I want.
+
+Instructions:
+Press ''Press to offend (compass)'' for compass
+Press ''Press to understand (accelerometer)'' for accelerometer values.
+
+Sources:
+https://www.built.io/blog/applying-low-pass-filter-to-android-sensor-s-readings
+http://www.techrepublic.com/article/pro-tip-create-your-own-magnetic-compass-using-androids-internal-sensors/
+https://developer.android.com/reference/android/hardware/SensorEvent.html
+https://developer.android.com/reference/android/hardware/SensorManager.html
